@@ -40,7 +40,7 @@ function App() {
           </div>
           <h1 className="profile-name">아무튼PM | 아피</h1>
           <p className="profile-bio">
-            네카라쿠배 출신 PM이 AI를 만난 이야기
+            네카라쿠배 PM이 AI를 만난 이야기
             <br />
             AI 시대에 살아남는 법, 함께 나눠요
           </p>
